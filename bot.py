@@ -14,8 +14,8 @@ print("Starting...")
 apiid = 6
 apihash = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
 try:
-    bottoken = config("BOT_TOKEN")
-    api = config("TOR_KEY")
+    bottoken = 1752005634:AAF1wXpGuL5SlvpRpsX5f-IOd6_8GXr2rLw
+    api = U2FsdGVkX1/k8xUiDh7egaA/DkZ2hNrvBeW7o2wwq0K5gmrsCjDgZ1c3GE+691HX
 except:
     print("Environment vars are missing! Kindly recheck.")
     print("Bot is quiting...")
