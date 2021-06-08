@@ -7,3 +7,6 @@ Get `BOT_TOKEN` from [@BotFather](https://t.me/BotFather) and `TOR_KEY` from [@T
 ## Credits
 - [Me](https://t.me/BotzHub).
 - [Tuhin Pal](https://github.com/cachecleanerjeet) for his torrent search API.
+
+
+##[Deploy](https://heroku.com/deploy)
