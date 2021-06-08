@@ -1,0 +1,22 @@
+{
+    "name": "Torrent Search Bot by @AbirHasan2005",
+    "description": "A Simple Telegram Inline Torrent Search Bot in Pyrogram by @AbirHasan2005",
+    "keywords": [
+        "telegram",
+        "inline",
+        "torrent",
+        "search",
+        "bot"
+    ],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
